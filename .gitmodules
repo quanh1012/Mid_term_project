@@ -1,0 +1,9 @@
+[submodule "GATraj_new"]
+	path = GATraj_new
+	url = https://github.com/mengmengliu1998/GATraj.git
+[submodule "STGAT_new"]
+	path = STGAT_new
+	url = https://github.com/huang-xx/STGAT.git
+[submodule "SSAGCN"]
+	path = SSAGCN
+	url = https://github.com/WW-Tong/ssagcn_for_path_prediction.git
