@@ -2,7 +2,7 @@
 	path = GATraj
 	url = https://github.com/mengmengliu1998/GATraj.git
 [submodule "STGAT_new"]
-	path = STGAT_new
+	path = STGAT
 	url = https://github.com/huang-xx/STGAT.git
 [submodule "SSAGCN"]
 	path = SSAGCN
