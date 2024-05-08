@@ -7,3 +7,6 @@
 [submodule "SSAGCN"]
 	path = SSAGCN
 	url = https://github.com/WW-Tong/ssagcn_for_path_prediction.git
+[submodule "InfoGAN-Pytorch"]
+	path = InfoGAN-Pytorch
+	url = https://github.com/Natsu6767/InfoGAN-PyTorch.git
